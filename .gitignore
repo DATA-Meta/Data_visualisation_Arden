@@ -1,0 +1,5 @@
+*.docx 
+*.pdf 
+*.xlsx 
+*.log 
+.ipynb_checkpoints/ 
